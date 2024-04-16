@@ -1,4 +1,4 @@
-# Project Name
+# AMB Movie App
 
 Movie database with an API made with MySQL + Spring Boot deployed with Docker-Compose
 
